@@ -1,0 +1,17 @@
+
+{
+"name": "joker80",
+"theme": "joker80",
+"version": "4.2.1",
+"description": "joker80 สมัครเว็บคาสิโนเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"joker80",
+"joker80 เครดิตฟรี",
+"joker80 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/joker80",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
